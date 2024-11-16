@@ -1,8 +1,4 @@
-For a **Garage Management System** built on Salesforce (for example, using Salesforce’s **Sales Cloud** or **Service Cloud**), the README would highlight specific features relevant to Salesforce, such as data management using **Salesforce Objects**, automation using **Flow**, and integration with other tools through **APIs** or **Apex**.
 
-Here’s an example of a README that could work for a Garage Management System developed in Salesforce:
-
----
 
 # Garage Management System on Salesforce
 
