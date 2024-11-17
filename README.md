@@ -88,11 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to Salesforce for providing the platform and tools to build custom solutions.
 - Inspiration drawn from other CRM and service management tools.
 
----
 
-### Additional Tips for Salesforce Development:
-
-- **Metadata Deployment**: If using Salesforce DX for development, you may want to deploy metadata such as custom objects, Apex classes, and Lightning components using the Salesforce CLI.
-- **Integration Considerations**: If your Garage Management System integrates with external systems, consider using **Salesforce Connect**, **Named Credentials**, or **Platform Events** for efficient data sync.
-
-This README is designed to help other developers or administrators understand how to deploy and customize the Salesforce solution, making it easy to get started with the Garage Management System in Salesforce.
